@@ -7,11 +7,10 @@ Este projeto apresenta um **card de equipe interativo e animado** feito com **HT
 - Imagens com efeito de escala e translação ao passar o mouse.
 - Formas personalizadas usando `clip-path`.
 - Cores de fundo distintas para cada membro.
-- Layout responsivo e alinhamento centralizado.
 
 ## 🎨 Tecnologias Utilizadas
-- HTML
-- CSS
+- HTML5
+- CSS3
 
 ## 👀 Como Visualizar  
 1. Clone o repositório ou baixe os arquivos.  
